@@ -1,4 +1,4 @@
-# Project Title
+# GSAP_SCROLLEFFECT
 
 ## Giới thiệu
 Dự án này được phát triển sử dụng các công nghệ cơ bản:
